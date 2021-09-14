@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @the-walkersingh
 - 👀 I’m interested in ...Java, C and Arduino
 - 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...Java
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...Java and Arduino
+- 📫 How to reach me ...the.walkersingh@gmail.com
 
 <!---
 the-walkersingh/the-walkersingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
