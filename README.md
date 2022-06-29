@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-walkersingh
 - 👀 I’m interested in ...Java, C and Arduino
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...C# and .NET Framework
 - 💞️ I’m looking to collaborate on ...Java and Arduino
 - 📫 How to reach me: the.walkersingh@gmail.com
 
